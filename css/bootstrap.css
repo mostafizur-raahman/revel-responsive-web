@@ -3631,8 +3631,8 @@ fieldset:disabled .btn {
 }
 
 .btn-outline-secondary {
-  --bs-btn-color: #6c757d;
-  --bs-btn-border-color: #6c757d;
+  --bs-btn-color: white;
+  --bs-btn-border-color: #fff;
   --bs-btn-hover-color: #fff;
   --bs-btn-hover-bg: #6c757d;
   --bs-btn-hover-border-color: #6c757d;
@@ -7831,7 +7831,7 @@ fieldset:disabled .btn {
 }
 
 .text-bg-primary {
-  color: #fff !important;
+  color: #0c2e8a !important;
   background-color: RGBA(13, 110, 253, var(--bs-bg-opacity, 1)) !important;
 }
 
